@@ -2,9 +2,10 @@
 
 ### _A hands-on journey through the [Namaste React Live Course](https://namastedev.com/learn/namaste-react?_aff=946684804112) by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/), Founder of [NamasteDev](https://namastedev.com/?_aff=946684804112). This repository contains assignments, notes, and source code from the course._
 
-- [🚀 _Live Project Demo_ 😍](https://mern-todofy.netlify.app/)
+🌐 Live Demo:
+🔗 [https://foodfire-app.netlify.app](https://foodfire-app.netlify.app)
 
-### 💖 This Repository was trending on [Github](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view) 🔥
+### 💖 This Repository was [Trending on Github](https://drive.google.com/file/d/1gOzX7KjXwKQpJuGz4zuqfz4xTIsqvuen/view) 🔥
 
 ## 🚀 About the Project
 
@@ -178,7 +179,15 @@ The application will now be running on `http://localhost:3000`. If you want to F
 
 ## ✏️ Contributing
 
-This is an Open-Source repository, and contributions are always welcome! If you find an issue, please create a new issue under the "Issues" section. To contribute code, fork the repository and submit a pull request. Your contributions will help make this a valuable resource for the community!
+Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+To contribute:
+
+1. Fork the Project.
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`). Ensure pre-commit hooks (Husky, Prettier, ESLint) pass successfully.
+4. Push to the Branch (`git push origin feature/AmazingFeature`).
+5. Open a Pull Request.
 
 ## ✨ Contributors
 
