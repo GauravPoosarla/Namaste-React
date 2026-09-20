@@ -1,11 +1,13 @@
 # ❤️ Namaste React 🙏
 
-### _A hands-on journey through the [Namaste React Live Course](https://namastedev.com/learn/namaste-react?_aff=946684804112) by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/), Founder of [NamasteDev](https://namastedev.com/?_aff=946684804112). This repository contains assignments, notes, and source code from the course._
+### _A hands-on journey through the [Namaste React Live Course](https://namastedev.com/learn/namaste-react?_aff=946684804112) by Akshay Saini, Founder of [NamasteDev](https://namastedev.com/?_aff=946684804112). This repository contains assignments, notes, and source code from the course._
 
-🌐 Live Demo:
-🔗 [https://foodfire-app.netlify.app](https://foodfire-app.netlify.app)
+
+<a href="https://trendshift.io/repositories/2686?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-2686" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/2686" alt="chetannada%2FNamaste-React | Trendshift" width="250" height="55"/></a>
 
 ### 💖 This Repository was [Trending on Github](https://drive.google.com/file/d/1gOzX7KjXwKQpJuGz4zuqfz4xTIsqvuen/view) 🔥
+
+🌐 Live Demo: [https://foodfire-app.netlify.app](https://foodfire-app.netlify.app)
 
 ## 🚀 About the Project
 
